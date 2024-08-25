@@ -10,7 +10,9 @@ $Nombre = "Hanmer";
     <title>Laboratorio 1</title>
 </head>
 <body>
-    <header> </header>
+    <header> 
+        <h1> Hola gentita hermosa</h1>
+    </header>
     <nav> </nav>
     <article>
     <h1>Hola mundo <?php echo $Nombre ?></h1>
